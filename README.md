@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola, soy Nicolás Anrique (ToaBollua) 👋<br>Sobre mí<br><br>    🔭 Actualmente estoy trabajando en proyectos personales y colaborando en algunos repositorios de código abierto.<br>    👯 Me gusta colaborar con otros desarrolladores en proyectos interesantes.<br>    🤔 Siempre estoy buscando formas de mejorar y optimizar mis soluciones.<br>    💬 Puedes preguntarme sobre cualquier tema relacionado con la programación, el desarrollo web o la tecnología en general.<br>    📫 Puedes contactarme a  por correo electrónico a bollua@proton.me.<br>
+Hola, soy Nicolás Anrique (ToaBollua) 👋<br>Sobre mí<br><br>    🔭 Actualmente estoy trabajando en proyectos personales y colaborando en algunos repositorios de código abierto.<br>    👯 Me gusta colaborar con otros desarrolladores en proyectos interesantes.<br>    🤔 Siempre estoy buscando formas de mejorar y optimizar mis soluciones.<br>    💬 Puedes preguntarme sobre cualquier tema relacionado con la programación, el desarrollo web o la tecnología en general.<br>    📫 Puedes contactarme a  por correo electrónico a nanrique@proton.me.<br>
 
 
 ## 🌐 Socials:
