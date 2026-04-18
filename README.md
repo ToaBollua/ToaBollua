@@ -1,16 +1,55 @@
-# 💫 About Me:
-Hola, soy Nicolás Anrique (ToaBollua) 👋<br>Sobre mí<br><br>    🔭 Actualmente estoy trabajando en proyectos personales y colaborando en algunos repositorios de código abierto.<br>    👯 Me gusta colaborar con otros desarrolladores en proyectos interesantes.<br>    🤔 Siempre estoy buscando formas de mejorar y optimizar mis soluciones.<br>    💬 Puedes preguntarme sobre cualquier tema relacionado con la programación, el desarrollo web o la tecnología en general.<br>    📫 Puedes contactarme a  por correo electrónico a nanrique@proton.me.<br>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Nicol%C3%A1s+Anrique;ToaBollua+%7C%7C+The+Architect;GlitchPoint+Infrastructure;Initializing+H0P3+Runtime..." alt="Typing SVG" />
+</div>
 
+<br>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/GKkXWCbC) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@toabollua) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Notusatsu) 
+<div align="center">
+  <em><h3 style="color:#00FF00;">> "Mi código no solo funciona; narra una historia. Busco la convergencia entre la lógica estricta de los microservicios y el caos creativo de la narrativa emergente."</h3></em>
+</div>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ToaBollua&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ToaBollua&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ToaBollua&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
 
+## 📟 端末 // IDENTIFICADOR DE SISTEMA
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+No busco encajar en arquitecturas heredadas; construyo mis propias prisiones virtuales y sistemas tácticos. Desarrollador, creador de inteligencias soberanas y operador de infraestructuras modulares. 
+
+- ⚙️ **Host Subyacente:** Operando nativamente en entornos **Linux** (Arch Linux / Hyprland).
+- 🔭 **Ciclo de Cómputo Actual:** Estabilizando el **Proyecto H0P3**, simuladores tácticos (NeonArena) y microservicios escalables.
+- 👯 **Alianzas:** Abierto a colaborar en repositorios de código abierto que no dependan de ecosistemas corporativos cerrados.
+- 💬 **Protocolos de Intercambio:** IoT, arquitecturas backend, scripting ofensivo/defensivo y automatización de despliegues.
+- 📫 **Comunicaciones Cifradas:** `nanrique@proton.me`
+
+<br>
+
+## 🌐 リンク // ENLACES DE RED
+<div align="left">
+  <a href="https://discord.gg/GKkXWCbC"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00FF00" alt="Discord"></a>
+  <a href="https://instagram.com/@toabollua"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=00FF00" alt="Instagram"></a>
+  <a href="https://reddit.com/user/u/Notusatsu"><img src="https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=Reddit&logoColor=00FF00" alt="Reddit"></a>
+</div>
+
+<br>
+
+## 💻 武器 // ARSENAL TÉCNICO
+
+**Core & Logic:** ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00) ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF00) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF00) ![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00FF00)
+
+**Terminal & Ops:** ![Shell Script](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF00) ![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=00FF00) ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF00) ![TOR](https://img.shields.io/badge/TOR-000000?style=for-the-badge&logo=tor-project&logoColor=00FF00)
+
+**Data & Architecture:** ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF00) ![MariaDB](https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=00FF00) ![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=00FF00) ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF00)
+
+**Web & Edge:** ![NodeJS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF00) ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF00) ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF00) ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=00FF00) ![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=Arduino&logoColor=00FF00)
+
+<br>
+
+## 📊 監視 // TELEMETRÍA (GitHub Stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ToaBollua&bg_color=0D1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00&hide_border=false&include_all_commits=true&count_private=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToaBollua&bg_color=0D1117&title_color=00FF00&text_color=00FF00&border_color=00FF00&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%">
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToaBollua&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00&hide_border=false">
+</div>
